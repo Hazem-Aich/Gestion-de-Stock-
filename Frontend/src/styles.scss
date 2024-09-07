@@ -1,0 +1,36 @@
+/* You can add global styles to this file, and also import other style files */
+body {
+  background-color: #eff2f5 !important;
+}
+.background-grey {
+  background-color: #eff2f5 !important;
+
+}
+.border-none {
+  border : none !important ;
+}
+.min-height-80 {
+  min-height: 80px;
+}
+.accordion-item {
+  border: none; // Remove border around the accordion item
+}
+
+.list-group-item {
+  border: none; // Remove border around each list group item
+}
+.list-group-item a {
+  text-decoration: none; // Remove underline from links
+  border: none; // Remove any border
+}
+.border-right {
+
+  border-right : 2px solid #9ca1a6; ;
+}
+.custom-border {
+  border: 2px solid #9ca1a6;
+  border-radius: 5px;
+}
+.blue-color {
+  color: #037bfe;
+}

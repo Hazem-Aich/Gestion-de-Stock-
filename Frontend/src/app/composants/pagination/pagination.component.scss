@@ -1,0 +1,14 @@
+.pagination .page-link {
+  color: black; /* Change la couleur du texte à noir */
+}
+
+.pagination .page-link:hover {
+  color: black; /* Garder la couleur du texte à noir au survol */
+  background-color: #e9ecef; /* Facultatif : change l'arrière-plan au survol */
+}
+
+.pagination .page-item.active .page-link {
+  background-color: black; /* Change la couleur de fond de l'élément actif */
+  border-color: black; /* Change la couleur de la bordure de l'élément actif */
+  color: white; /* Change la couleur du texte de l'élément actif */
+}
